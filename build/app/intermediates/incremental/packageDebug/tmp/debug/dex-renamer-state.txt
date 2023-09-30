@@ -1,0 +1,4 @@
+#Sat Sep 30 03:10:56 ICT 2023
+base.0=D\:\\CAPSTONE\\Capstone 2 _NCKH\\Capstone2_mobile\\app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
